@@ -1,6 +1,4 @@
-Sure, I’d be happy to help with that! Here’s a template for your README file:
 
----
 
 # Regression Project Repository
 
